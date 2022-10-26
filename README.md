@@ -1,9 +1,9 @@
 
 ### Olá 👋
-<!--I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects.  -->
+ Tenho 22 anos, moro em Marica/RJ e estou cursando Sistemas de Informação.
+- 🔭 Atualmente estou trabalhando com PHP e React
+- 🌱 Atuamente estou aprendendo o uso de container com Docker e a fazer api com Spring usando JAVA.
+
 
 👨🏽‍💻 Tecnologias:<br />
 Algumas das tecnologias e ferramentas que utilizo:
