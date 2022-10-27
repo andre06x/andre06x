@@ -17,6 +17,6 @@ Algumas das tecnologias e ferramentas que utilizo:
 
 💬 Minhas redes de contato:<br/>
 <a href="https://api.whatsapp.com/send?phone=21966270362" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </img> </a>
-<a href="123" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </img> </a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-silva-440157207/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </img> </a>
 <a href="mailto:andre06x" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </img> </a>
 
