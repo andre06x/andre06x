@@ -9,7 +9,7 @@ Me chamo André Silva, tenho 23 anos e sou formado em Sistemas de Informação, 
 👨🏽‍💻 Tecnologias:<br />
 Algumas das tecnologias e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,js,typescript,react,styledcomponents,redux,nodejs,docker,express,postgres,mongodb,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,bun,cs,dotnet,spring,laravel,react,nextjs,angular,nestjs,rabbitmq,git,docker,kubernetes,postgres,mysql,mongodb)](https://skillicons.dev)
 
 👾 Minhas Estatísticas:
 
