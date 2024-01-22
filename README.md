@@ -1,8 +1,9 @@
 
 ### Olá 👋
- Tenho 22 anos, moro em Marica/RJ e estou cursando Sistemas de Informação.
-- 🔭 Atualmente estou trabalhando com PHP e React
-- 🌱 Atuamente estou aprendendo o uso de container com Docker e a fazer api com Spring usando JAVA.
+Me chamo André Silva, tenho 23 anos e sou formado em Sistemas de Informação, com ênfase em desenvolvimento full stack. Atualmente, resido em Maricá/RJ.
+
+🔭 Atualmente, estou trabalhando com as tecnologias JS com Node/Bun com BFF e desenvovimento de aplicações com React, Angular e Nextjs.
+🌱 Estou concentrando meus esforços em aprimorar minhas habilidades em C# .NET, microsserviços, CI/CD e Kubernetes.
 
 
 👨🏽‍💻 Tecnologias:<br />
