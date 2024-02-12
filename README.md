@@ -11,10 +11,10 @@ Algumas das tecnologias e ferramentas que utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,bun,python,cs,dotnet,spring,laravel,react,nextjs,angular,nestjs,rabbitmq,git,docker,kubernetes,postgres,mysql,mongodb)](https://skillicons.dev)
 
-👾 Minhas Estatísticas:
+<!--👾 Minhas Estatísticas:
 
 <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre06x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><a href="https://github.com/andre06x"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre06x&layout=compact&langs_count=7&theme=dracula"/></div>
-
+-->
 
 💬 Minhas redes de contato:<br/>
 <a href="https://api.whatsapp.com/send?phone=21966270362" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </img> </a>
