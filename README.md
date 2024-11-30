@@ -1,15 +1,11 @@
 
 ### Olá 👋
-Me chamo André Silva, tenho 23 anos e sou formado em Sistemas de Informação, com ênfase em desenvolvimento full stack. Atualmente, resido em Maricá/RJ.
-
-🔭 Atualmente, estou trabalhando com as tecnologias JS com Node/Bun com BFF e desenvovimento de aplicações com React, Angular e Nextjs.
-🌱 Estou concentrando meus esforços em aprimorar minhas habilidades em C# .NET, microsserviços, CI/CD e Kubernetes.
-
+Me chamo André Silva, tenho 24 anos e sou formado em Sistemas de Informação, com ênfase em desenvolvimento full stack. Atualmente, resido em Maricá/RJ.
 
 👨🏽‍💻 Tecnologias:<br />
 Algumas das tecnologias e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,dotnet,react,nextjs,nodejs,express,rabbitmq,docker,postgres,mysql,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,dotnet,react,nextjs,jest,nodejs,express,rabbitmq,docker,postgres,mysql,mongodb,git)](https://skillicons.dev)
 
 <!--👾 Minhas Estatísticas:
 
